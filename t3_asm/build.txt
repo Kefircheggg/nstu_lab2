@@ -1,0 +1,3 @@
+
+ clang -o main main.s -Wl,-syslibroot,$(xcrun --show-sdk-path) -arch arm64
+./main

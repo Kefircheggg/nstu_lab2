@@ -1,0 +1,16 @@
+/task1/typescript/node_modules
+/task2/typescript/node_modules
+/task1/cpp/cmake-build-debug
+/task3/typescript/node_modules
+/task3/cpp/cmake-build-debug
+/task2/javascript/node_modules
+/task2/cpp/cmake-build-debug
+/task2/cs/main/bin
+/task2/cs/main/obj
+/task3/javascript/node_modules
+/task1/cpp
+/task1/cs/main/bin
+/task1/cs/main/obj
+/task1/javascript/node_modules
+/task3/cs/main/bin
+/task3/cs/main/obj
